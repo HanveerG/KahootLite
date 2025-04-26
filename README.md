@@ -79,3 +79,5 @@ Watch it here 👉 [https://github.com/user-attachments/assets/a892a93d-34f4-4ae
 - Java 17 or later (tested with OpenJDK 17 and 23)
 - Works on Windows / Mac
 - No additional dependencies (standard Java SE)
+
+This project was originally submitted as coursework for CSCI2020U Software Systems Development & Integration at Ontario Tech University, Winter 2025.
