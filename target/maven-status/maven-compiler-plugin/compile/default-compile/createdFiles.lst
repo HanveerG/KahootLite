@@ -1,0 +1,6 @@
+client\Client.class
+server\GameServer.class
+controller\GameController.class
+view\ClientView.class
+model\GameModel.class
+server\ClientHandler.class

@@ -1,0 +1,8 @@
+# Ignore the IDE configuration files (for IntelliJ IDEA)
+.idea/
+
+# Ignore bin directory (compiled bytecode)
+/bin/
+
+# Ignore external libraries in lib folder (if not using Maven/Gradle)
+/lib/
